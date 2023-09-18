@@ -10,7 +10,7 @@ Take a look at the [webpage](https://yvantt.github.io/arTIfiCE/) for more detail
 
 # this repository ...
 
-... exists because the original author is in active violation of their own license
+... exists because in my opinion the original author is in active violation of their own license
 and ~~in complete silence about releasing their source~~ *now confirming intent to not release* **and now retroactively lying about the license** despite promosing years ago to do so;
 while a "Contributor" runs around telling people guesses at best and lies at worst about the
 reasons behind that and "suggests" they won't ever dare to compete with their project.
@@ -30,3 +30,7 @@ Aaaaand then they started getting petty :'D
 > Pretty convenient for us honestly, especially when everything has been good so far with TI not patching the issue for years, so it will be pretty clear why the fix happened :)
 
 oh yeah i 110% believe you're holding back on us solely because you're afraid TI are merely unable to debug their own software for years, if you find it "honestly pretty convenient" to sic "the whole community of users" at a single dev. totally not just your god complex being hurt.
+
+---
+
+btw all of the above developments (from the ~~stricken~~ text to this line) happened within hours after years of silence... make of that what you will.
