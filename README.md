@@ -22,7 +22,7 @@ Aaaaand then they started getting petty :'D
 
 > This is "great" because in addition to you being wrong (no, we are not violating the license we chose) and doubling-down when you're explained the facts, there is now written evidence that you're actively trying to violate the terms/law/copyright/whatever-you-want-to-call-it.
 
-[somehow has no idea what they're talking about](https://en.wikipedia.org/wiki/Clean_room_design)
+[somehow has no idea what they're talking about](https://en.wikipedia.org/wiki/Sony_Computer_Entertainment,_Inc._v._Connectix_Corp.)
 
 > now there is twice the written evidence that you're actively trying to violate the terms/law/copyright/whatever-you-want-to-call-it.
 > 
