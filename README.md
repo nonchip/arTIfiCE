@@ -6,6 +6,7 @@ It brings back ASM programs and games!
 
 Take a look at the [webpage](https://yvantt.github.io/arTIfiCE/) for more details and install tutorial.
 
+---
 
 # this repository ...
 
@@ -15,3 +16,17 @@ while a "Contributor" runs around telling people guesses at best and lies at wor
 reasons behind that and "suggests" they won't ever dare to compete with their project.
 
 I got fed up with that and decided to start cleanroom reverse engineering the source we're owed.
+
+
+Aaaaand then they started getting petty :'D
+
+> This is "great" because in addition to you being wrong (no, we are not violating the license we chose) and doubling-down when you're explained the facts, there is now written evidence that you're actively trying to violate the terms/law/copyright/whatever-you-want-to-call-it.
+
+[somehow has no idea what they're talking about](https://en.wikipedia.org/wiki/Clean_room_design)
+
+> now there is twice the written evidence that you're actively trying to violate the terms/law/copyright/whatever-you-want-to-call-it.
+> 
+> Also, how nice is it that if TI suddenly patches things, we can now point the finger at you and your "fork", and the whole community of users will be able to see that it's your fault!
+> Pretty convenient for us honestly, especially when everything has been good so far with TI not patching the issue for years, so it will be pretty clear why the fix happened :)
+
+oh yeah i 110% believe you're holding back on us solely because you're afraid TI are merely unable to debug their own software for years, if you find it "honestly pretty convenient" to sic "the whole community of users" at a single dev. totally not just your god complex being hurt.
