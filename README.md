@@ -14,4 +14,4 @@ and ~~in complete silence about releasing their source~~ *now confirming intent 
 while a "Contributor" runs around telling people guesses at best and lies at worst about the
 reasons behind that and "suggests" they won't ever dare to compete with their project.
 
-I got fed up with that and decided to start reverse engineering the source we're owed.
+I got fed up with that and decided to start cleanroom reverse engineering the source we're owed.
