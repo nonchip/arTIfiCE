@@ -36,3 +36,5 @@ oh yeah i 110% believe you're holding back on us solely because you're afraid TI
 btw all of the above developments (from the ~~stricken~~ text to this line) happened within hours after years of silence... make of that what you will.
 
 aaand the night after that, multiple people from "the community" (judging by their group memberships) decided to come over here and commit some crimes against me. all at once. interesting. "honestly pretty convenient", some might even call it.
+
+now we're on the level of "3rd parties stalking me on various other channels", yup, very high horse you got there.
